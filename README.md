@@ -4,7 +4,9 @@ In Github, you can use syntax from both **HTML** and **markdown**. Thus, most th
 
 **IMPORTANT MISTAKE TO AVOID**: If you use an HTML element, you **must** leave a blank line **below** it before writing any markdown.
 
-# Using the Github Code Editor
+<br>
+
+## Using the Github Code Editor
 Markdown is something you'll actually need to edit from _inside_ Github, instead of a text editor, because it's the only way to quickly preview your content in its rendered form before committing.
 
 <details>
@@ -121,7 +123,7 @@ There are 3 types of code blocks:
 3. **Fenced with syntax highlighting**: After the opening set of back ticks, specify a language: ```` ```python ````
 
 <details>
-  <summary><i><b>Demo:n</b></i></summary>
+  <summary><i><b>Demo:</b></i></summary>
 
 ## Inline:
 Here is a sentence with an ```inline code block``` used.
