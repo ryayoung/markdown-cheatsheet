@@ -7,7 +7,7 @@ In Github, you can use syntax from both **HTML** and **markdown**. Thus, most th
 <br>
 
 ## Using the Github Code Editor
-Markdown is something you'll actually need to edit from _inside_ Github, instead of a text editor, because it's the only way to quickly preview your content in its rendered form before committing.
+To edit markdown for Github, you'll need an editor that can render it properly. The easiest option is to use Github's built-in code editor. A better option, however, is to use VS Code, which can render markdown in real-time. You'll want to add a plugin that renders it to match Github's styling. I recommend [this one](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles).
 
 <details>
   <summary><i><b>Click here for tips on using the Github editor</b></i></summary>
